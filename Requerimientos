@@ -2,9 +2,37 @@ Requerimientos
 Requerimientos de usuario:
 Usuario: Ser que usa el sistema.
 
-El usuario puede acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de dinámicas de las clases virtuales del periodo escolar septiembre del 2020 a febrero del 2021.
+El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de dinámicas de las clases virtuales del periodo escolar septiembre del 2020 a 
+febrero del 2021.
 El usuario podrá accedar a Ingeniería-en-línea para navegar con el índice para ver la sección de experiencias de los alumnos de la carrera de ingeniería en software.
 El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de guías y consejos para los estudiantes en la modalidad virtual.
 El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de ventajas de la modalidad virtual.
 El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de herramientas y aplicaciones útiles para las clases en línea.
 El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de consejos de los ingenieros que trabajan de manera virtual.
+El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ingresar a un sub-índice donde puedes ver secciones en el que puedes ver los diferentes documentos
+que puedes solicitar en la facultad de matemáticas y explica cómo tramitar los documentos.
+
+Requerimientos del sistema:
+
+Funcionales:
+RF001 Navegar con índice.
+Prioridad: Alta.
+Descripción: El sistema permitirá al usuario navegar con el índice las diferentes secciones con las que cuenta la página web.
+RF002 Navegar con sub-índice.
+Prioridad: Media.
+Descripción: El sistema permitirá al usuario acceder desde el índice a un sub-índice que permite ver secciones que explican los diferentes tipos de documentos que hay para poder
+tramitar en la facultad de matemáticas.
+
+No funcionales:
+RNF001 Accesibilidad para todos.
+Prioridad: Baja.
+Descripción: El sistema permitirá a cualquiera ingresar al sitio web sin restricciones en ninguna sección.
+RNF002 Forma de ingresar.
+Prioridad: Alta.
+Descripción: El sitio web estará adaptado para que se pueda acceder desde el celular, computadora y tablet. Será un sitio responsive.
+RNF003 Índice para todas las secciones.
+Prioridad: Alta.
+Descripción: Cada sección contará con un índice que permitirá acceder a las otras secciones.
+RNF004 índice en el inicio.
+Prioridad: Alta.
+Descripción: En el inicio se colocará un índice para acceder a las secciones.
