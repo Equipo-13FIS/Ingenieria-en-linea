@@ -22,6 +22,9 @@ RF002 Navegar con sub-índice.
 Prioridad: Media.
 Descripción: El sistema permitirá al usuario acceder desde el índice a un sub-índice que permite ver secciones que explican los diferentes tipos de documentos que hay 
 para poder tramitar en la facultad de matemáticas.
+RF003 Notificación.
+Prioridad: Media.
+Descripción: El sistema mostrará en el inicio un tablero que contendrá un mensaje de las actualizaciones del contenido informativo que tuvo el sitio web.
 
 No funcionales:
 RNF001 Accesibilidad para todos.
@@ -36,3 +39,6 @@ Descripción: Cada sección contará con un índice que permitirá acceder a las
 RNF004 índice en el inicio.
 Prioridad: Alta.
 Descripción: En el inicio se colocará un índice para acceder a las secciones.
+RF005 Actualización de información.
+Prioridad: Media.
+Descripción: El sistema tendrá actualizaciones del contenido cada 15 días.
