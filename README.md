@@ -5,7 +5,7 @@
 - Esteban Alfonso Pacheco Serralta
 - Karyme Maylin Bautista Poot
 - Emanuel Rafael Chávez Bagundo
-- Lourdea Gabriela Batun Ceme
+- Lourdes Gabriela Batun Ceme
 
 ## Introducción
 
