@@ -1,6 +1,6 @@
 # Ingenieria en linea
 
-# imágen
+
 
 ### Equipo 13
 - Patricio Peña Ojeda
