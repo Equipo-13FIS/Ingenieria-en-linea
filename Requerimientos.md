@@ -1,5 +1,5 @@
-Requerimientos
-Requerimientos de usuario:
+# Requerimientos
+## Requerimientos de usuario:
 Usuario: Ser que usa el sistema.
 
 El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de Dinámicas que consta de dinámicas de las clases virtuales del periodo escolar 
@@ -19,7 +19,7 @@ que puedes ver los diferentes documentos que puedes solicitar en la facultad de 
 alumno inscrito, constancia de servicio médico, prácticas profesionales, servicio social,constancia de asignaturas aprobadas en el periodo, constancia de todas las asignaturas
 aprobadas, Kardex, Becas, carta pasante, certificado de estudios, titulación MEFI,titulación MEYA, titulación en posgrado, seguro facultativo y baja.
 
-Requerimientos del sistema:
+## Requerimientos del sistema:
 
 Funcionales:
 RF001 Navegar con índice.
