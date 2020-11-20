@@ -30,10 +30,10 @@ Resumir la información que se necesite para usarla en la plataforma
 -Se pondrá una sección que brindará consejos y anécdotas de ingenieros sobre el trabajo a distancia.
 
 ## Requerimientos del sistema 
-La accesibilidad a los contenidos será para todos.
+-La accesibilidad a los contenidos será para todos.
 
-La plataforma cada 15 días necesitara saber si existe algún tipo de actualización.
+-La plataforma cada 15 días necesitara saber si existe algún tipo de actualización.
 
-Al sitio se podrá ingresar desde un dispositivo electrónico que tenga acceso a internet.
+-Al sitio se podrá ingresar desde un dispositivo electrónico que tenga acceso a internet.
 
-Las dimensiones visuales se adaptarán a cualquier dispositivo que pueda acceder a la página.
+-Las dimensiones visuales se adaptarán a cualquier dispositivo que pueda acceder a la página.
