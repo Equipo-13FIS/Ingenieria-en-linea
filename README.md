@@ -30,3 +30,5 @@ Nuestros objetivos como equipo es mostrarle a todos los jóvenes y adultos que e
 [Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
 
 [Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
+
+[Proceso del trabajo](PROCESO  DE TRABAJO.md)
