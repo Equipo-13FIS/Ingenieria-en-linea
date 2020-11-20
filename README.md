@@ -24,9 +24,6 @@ acerca de esta forma de desarrollarse académicamente y laboralmente.
 La "Ingeniería en Línea" está dirigido a todo alumno o egresado que quiere desenvolverse de manera académica o laboral en el campo 
 de las ingenierías. Sacar de duda a todos aquellos que se preguntan como es trabajar desde casa, todas las inseguridades que tienen y saber que realmente necesitan para poder desenvolverse.
 
-## Objetivos
-Nuestros objetivos como equipo es mostrarle a todos los jóvenes y adultos que estudiar y/o trabajar desde casa puede ser una alternativa igual o mejor que de forma presencial, que se puede aprovechar la situación actual que se está viviendo para seguir creciendo como estudiantes y profesionistas. El mundo ha cambiado como lo conocemos, pero nosotros como ingenieros debemos seguir trabajando y estudiando para hacer de este mundo un mejor lugar.
-
 ## Indice
 
 1.[Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
