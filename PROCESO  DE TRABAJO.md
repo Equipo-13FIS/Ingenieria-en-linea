@@ -13,19 +13,23 @@ proyecto y así gestionar en equipo las distintas ideas, se basa en el modelo
 de producción donde los murales están disponibles para todas las personas
 responsables de realizar las tareas en la fase de producción. Esta se divide en:
 
-_Tareas asignadas 
- _Tareas en proceso 
- _Tarea finalizada
+-Tareas asignadas 
+
+-Tareas en proceso 
+
+-Tarea finalizada
 
 Decidimos usarla porque es una herramienta que nos facilitara el trabajo y
 realización de tareas. También porque nos ofrece distintas funcionalidades para la
 elaboración del proyecto como son:
 
 1.Organización de tareas: en el tablero se pueden agregar tarjetas para ir
-asignando a cada integrante la tarea que le corresponde
+asignando a cada integrante la tarea que le corresponde.
+
 2.Recordatorios y monitoreos: a las tareas se les puede asignar hora y fecha de
 entrega y la aplicación les estará recordando lo que tienen que hacer y cuánto
 tiempo queda.
+
 3.Monitoreo: Trello permite ver que tareas son asignadas a cada integrante y
 cuales ya han sido terminadas
 
@@ -41,9 +45,13 @@ Teams es una aplicación de Microsoft que tiene como funcionalidad crear reunion
 decidimos usarla porque todos tenemos cuenta y ya estamos familiarizados con su
 función, a demás que podemos
 
-1.Crear grupos privados para mantener chats y reuniones con el equipo
-2.Ver el contenido del chat en cualquier momento
-3.Grabar reuniones como evidencia
+1.Crear grupos privados para mantener chats y reuniones con el equipo.
+
+2.Ver el contenido del chat en cualquier momento.
+
+3.Grabar reuniones como evidencia.
+
 4.Compartir pantalla para una mejor explicación y entendimiento de lo que se
-realiza
+realiza.
+
 5.Compartir archivos o imágenes en el chat
