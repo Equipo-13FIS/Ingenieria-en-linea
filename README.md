@@ -26,13 +26,15 @@ de las ingenierías. Sacar de duda a todos aquellos que se preguntan como es tra
 
 ## Indice
 
-1.[Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
+1.[Objetivos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Objetivos.md)
 
-2.[Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
+2.[Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
 
-3.[Proceso del trabajo](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/PROCESO%20%20DE%20TRABAJO.md)
+3.[Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
 
-4.[Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
+4.[Proceso del trabajo](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/PROCESO%20%20DE%20TRABAJO.md)
+
+5.[Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
 
 ## Bitacoras
 [Bitacora 1 ](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitacora-1.md)
