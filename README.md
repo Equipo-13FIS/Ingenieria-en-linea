@@ -36,5 +36,5 @@ Nuestros objetivos como equipo es mostrarle a todos los jóvenes y adultos que e
 [Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
 
 ## Bitacoras
-[Bitacora 1 ](Ingenieria-en-linea/Bitacora-1.md)
+[Bitacora 1 ](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitacora-1.md)
 
