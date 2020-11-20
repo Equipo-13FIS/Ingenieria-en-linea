@@ -31,9 +31,11 @@ entrega y la aplicación les estará recordando lo que tienen que hacer y cuánt
 tiempo queda.
 
 3.Monitoreo: Trello permite ver que tareas son asignadas a cada integrante y
-cuales ya han sido terminadas
+cuales ya han sido terminadas.
 
-Medios de comunicación: WhatsApp y Teams
+Medios de comunicación:
+
+**WhatsApp y Teams**
 
 WhatsApp es una aplicación de mensajería instantánea en donde se envía texto y
 multimedia entre usuarios, en donde como equipo nos vamos poniendo de acuerdo
