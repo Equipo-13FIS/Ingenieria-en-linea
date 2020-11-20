@@ -31,4 +31,4 @@ Nuestros objetivos como equipo es mostrarle a todos los jóvenes y adultos que e
 
 [Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
 
-[Proceso del trabajo](PROCESO  DE TRABAJO.md)
+[Proceso del trabajo](docs/PROCESO  DE TRABAJO.md)
