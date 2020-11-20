@@ -14,8 +14,8 @@ de producción donde los murales están disponibles para todas las personas
 responsables de realizar las tareas en la fase de producción. Esta se divide en:
 
 -Tareas asignadas 
--Tareas en proceso 
--Tarea finalizada
+ -Tareas en proceso 
+ -Tarea finalizada
 
 Decidimos usarla porque es una herramienta que nos facilitara el trabajo y
 realización de tareas. También porque nos ofrece distintas funcionalidades para la
