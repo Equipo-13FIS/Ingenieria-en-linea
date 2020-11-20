@@ -13,9 +13,9 @@ proyecto y así gestionar en equipo las distintas ideas, se basa en el modelo
 de producción donde los murales están disponibles para todas las personas
 responsables de realizar las tareas en la fase de producción. Esta se divide en:
 
-1.tareas asignadas 
-2.tareas en proceso 
-3.tarea finalizada
+-Tareas asignadas 
+-Tareas en proceso 
+-Tarea finalizada
 
 Decidimos usarla porque es una herramienta que nos facilitara el trabajo y
 realización de tareas. También porque nos ofrece distintas funcionalidades para la
