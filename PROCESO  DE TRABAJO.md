@@ -31,6 +31,7 @@ multimedia entre usuarios, en donde como equipo nos vamos poniendo de acuerdo
 sobre lo que haremos como proyecto final, ya que como no todos tienen el mismo
 tiempo disponible se platica por dicha aplicación y al momento de ver los mensajes
 pueden opinar o dar sugerencias sobre lo que se hará.
+
 Teams es una aplicación de Microsoft que tiene como funcionalidad crear reuniones,
 decidimos usarla porque todos tenemos cuenta y ya estamos familiarizados con su
 función, a demás que podemos
