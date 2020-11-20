@@ -27,13 +27,15 @@ de las ingenierías. Sacar de duda a todos aquellos que se preguntan como es tra
 ## Objetivos
 Nuestros objetivos como equipo es mostrarle a todos los jóvenes y adultos que estudiar y/o trabajar desde casa puede ser una alternativa igual o mejor que de forma presencial, que se puede aprovechar la situación actual que se está viviendo para seguir creciendo como estudiantes y profesionistas. El mundo ha cambiado como lo conocemos, pero nosotros como ingenieros debemos seguir trabajando y estudiando para hacer de este mundo un mejor lugar.
 
-[Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
+## Indice
 
-[Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
+[1.Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
 
-[Proceso del trabajo](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/PROCESO%20%20DE%20TRABAJO.md)
+[2.Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
 
-[Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
+[3.Proceso del trabajo](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/PROCESO%20%20DE%20TRABAJO.md)
+
+[4.Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
 
 ## Bitacoras
 [Bitacora 1 ](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitacora-1.md)
