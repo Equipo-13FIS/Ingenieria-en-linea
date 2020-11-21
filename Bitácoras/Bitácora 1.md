@@ -1,8 +1,8 @@
-Bitacora 1
+# Bitacora 1
 
-5 de Noviembre
+## 5 de Noviembre
 
-Primera reunión formal
+## Primera reunión formal
 
 Se realizo una junta con los integrantes del equipo para poder tomar una decisión
 sobre el proyecto a realizar.
