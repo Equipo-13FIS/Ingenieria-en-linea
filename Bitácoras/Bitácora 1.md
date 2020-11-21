@@ -12,7 +12,8 @@ experencia, y todo lo relacionado a la carrera de Ingenieria de Software en la m
 ya que consideramos que es algo que nos hubiera sido de gran ayuda.
 Se le envio un mensaje al maestro para poder programar una junta.
 En esta reunion la realizamos por WhatsApp.
-Participantes:
+
+## Participantes:
 Gabriela Batun
 Karyme Bautista
 Emanuel Chavez
