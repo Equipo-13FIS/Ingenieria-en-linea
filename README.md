@@ -38,6 +38,8 @@ de las ingenierías. Sacar de duda a todos aquellos que se preguntan como es tra
 
 ## Bitacoras
 [Bitacora 2 ](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitácora%202.md)
+
 [Bitacora 10](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitacora-10.md)
-[Bitacora 11]()
+
+[Bitacora 11](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitacora-11.md)
 
