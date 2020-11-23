@@ -1,8 +1,8 @@
-Bitacora 2
+# Bitacora 2
 
-17 de Noviembre
+## 17 de Noviembre
 
-Plan de proyecto
+## Plan de proyecto
 
 Al obtener el asignamiento de las actividades, se realizo un
 documento en donde poniamos informacion general del proyecto,
@@ -15,7 +15,7 @@ Este documento contiene
 El documentos lo creamos en 
 Microsoft Word: colaboración en documentos de Word
 
-Participantes:
+## Participantes:
 
 Gabriela Batun
 
