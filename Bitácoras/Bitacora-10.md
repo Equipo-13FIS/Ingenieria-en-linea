@@ -17,12 +17,12 @@ Microsoft Word: colaboración en documentos de Word
 
 ## Participantes:
 
-Gabriela Batun
+- Gabriela Batun
 
-Karyme Bautista
+- Karyme Bautista
 
-Emanuel Chavez
+- Emanuel Chavez
 
-Alfonso Pacheco
+- Alfonso Pacheco
 
-Patricio Peña
+- Patricio Peña
