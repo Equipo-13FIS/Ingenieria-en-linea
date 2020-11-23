@@ -1,8 +1,8 @@
 # Bitacora 2
 
-## 17 de Noviembre
+## 18 de Noviembre
 
-## Plan de proyecto
+## Reunion para verificar avances
 
 En esta reunion terminamos de agregar algunas especificaciones
 que nos faltaron de la reunion anterior.
