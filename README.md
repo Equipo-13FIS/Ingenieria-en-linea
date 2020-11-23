@@ -37,5 +37,7 @@ de las ingenierías. Sacar de duda a todos aquellos que se preguntan como es tra
 5.[Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
 
 ## Bitacoras
-[Bitacora 1 ](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitacora-1.md)
+[Bitacora 2 ](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitácora%202.md)
+[Bitacora 10]()
+[Bitacora 11]()
 
