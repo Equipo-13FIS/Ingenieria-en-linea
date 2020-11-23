@@ -14,8 +14,9 @@ Se le envio un mensaje al maestro para poder programar una junta.
 En esta reunion la realizamos por WhatsApp.
 
 ## Participantes:
-Gabriela Batun
-Karyme Bautista
-Emanuel Chavez
-Alfonso Pacheco
-Patricio Peña
+
+- Gabriela Batun
+- Karyme Bautista
+- Emanuel Chavez
+- Alfonso Pacheco
+- Patricio Peña
