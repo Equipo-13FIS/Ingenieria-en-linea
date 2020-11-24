@@ -43,3 +43,4 @@ de las ingenierías. Sacar de duda a todos aquellos como interesados en la carre
 
 [Bitacora 11](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitacora-11.md)
 
+[Bitacora 23](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bit%C3%A1cora%2023.md)
