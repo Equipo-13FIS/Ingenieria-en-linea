@@ -1,4 +1,4 @@
-# Ingeniería en línea
+# Ingeniería en línea.
 
 ### Equipo 13
 - Patricio Peña Ojeda.
@@ -7,7 +7,7 @@
 - Emanuel Rafael Chávez Bagundo.
 - Lourdes Gabriela Batun Ceme. 
 
-## Introducción
+## Introducción.
 
 Debido a la situación actual, muchos de nosotros hemos dudado si en verdad vale la pena trabajar en una modalidad en línea desde la
 comodidad de nuestro hogar, aunque antes trabajar en línea era una alternativa, debido a la pandemia el trabajo en línea es la mejor
@@ -24,7 +24,7 @@ acerca de esta forma de desarrollarse académicamente y laboralmente.
 La "Ingeniería en Línea" está dirigido principalmente a los estudiantes y/o profesionistas que quiere desenvolverse den el campo 
 de las ingenierías. Sacar de duda a todos aquellos como interesados en la carrera, actualmente cursadores o ya egresados que se preguntan como es trabajar desde casa, todas las inseguridades que tienen y saber que realmente necesitan para poder desenvolverse.
 
-## Indice
+## Indice:
 
 1.[Objetivos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Objetivos.md)
 
