@@ -5,8 +5,7 @@ y que no importe la manera en la que se presenta el conocimiento mientras se pre
 
 Historia de usuario 002:
 
-Como usuario quiero una sección que hable de la experiencia de los ingenieros en el trabajo a distancia para que pueda conocer el mundo que espera a un egresado
-ya que quiero tener una visión de cómo se ve el mundo a los ojos de los ingenieros y cómo se las arreglan para llevar este proceso.
+Como usuario quiero un índice que me permita desplazarme en En-Línea para que se me haga más sencillo visualizar los contenidos que ofrece.
 
 Historia de usuario 003:
 
@@ -14,12 +13,12 @@ Como usuario quiero una sección que hable de las dinámicas que se están lleva
 escolar 2020-2021 para poder decidir si es una buena idea inscribirse en las carreras de la facultad de matemáticas o bien seguir en las mismas carreras que 
 ofrece la institución.
 
-Historia de usuario 004:
+## Historia de usuario 004:
 
 Como usuario quiero una sección que hable de las experiencias de los alumnos de la carrera de ingeniería de software de la facultad de matemáticas para que 
 comprenda como se sienten en esta modalidad totalmente virtual.
 
-Historia de usuario 005:
+## Historia de usuario 005:
 
 Como usuario quiero una sección que hable de guías y consejos de los alumnos de la facultad de matemáticas para que pueda comprender como llevar una vida 
 académica tranquila y sin problemas.
@@ -31,4 +30,13 @@ desarrollo académico y profesional.
 
 Historia de usuario 007:
 
-Como usuario quiero una sección que
+Como usuario quiero una sección que hable de herramientas útiles para las clases en línea para que me faciliten mis trabajos en el aula virtual.
+
+Historia de usuario 008:
+
+Como usuario quiero una sección que hable de los diferentes documentos que se pueden solicitar en la facultad de matemáticas y que explique cómo tramitarlos para 
+que se me haga más fácil conocerlos y tramitarlos.
+
+Historia de usuario 009:
+
+Como usuario quiero un panel que me notifique actualizaciones para que este al corriente de la nueva información que se agrega.
