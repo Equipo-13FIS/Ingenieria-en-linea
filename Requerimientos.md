@@ -6,8 +6,7 @@ Usuario: Ser que usa el sistema.
 -El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de Dinámicas que consta de dinámicas de las clases virtuales del periodo escolar 
 septiembre del 2020 a febrero del 2021.
 
--El usuario podrá accedar a Ingeniería-en-línea para navegar con el índice para ver la sección de Experiencias que consta de experiencias de los alumnos de la carrera de 
-ingeniería en software.
+-El usuario podrá accedar a Ingeniería-en-línea para navegar con el índice para ver la sección de Experiencias que consta de experiencias de los alumnos de la facultad de matemáticas.
 
 -El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de Guías y consejos que consta de unas guías y consejos 
 para los estudiantes en la modalidad virtual.
