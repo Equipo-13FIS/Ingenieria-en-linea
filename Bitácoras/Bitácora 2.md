@@ -1,8 +1,8 @@
 # Bitacora 2
 
-## 5 de Noviembre
+## 5 de Noviembre.
 
-## Primera reunión formal
+## Primera reunión formal.
 
 Se realizo una junta con los integrantes del equipo para poder tomar una decisión
 sobre el proyecto a realizar.
@@ -11,7 +11,7 @@ Se llego al acuerdo que realizariamos una pagina web que contenga informacion so
 experencia, y todo lo relacionado a la carrera de Ingenieria de Software en la modalidad en linea,
 ya que consideramos que es algo que nos hubiera sido de gran ayuda.
 Se le envio un mensaje al maestro para poder programar una junta.
-En esta reunion la realizamos por WhatsApp.
+En esta reunion la realizamos por la aplicación de WhatsApp.
 
 ## Participantes:
 
