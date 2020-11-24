@@ -1,5 +1,5 @@
 # Requerimientos
-El nivel de importancia de los requerimientos se tomó como base la importancia del contenido; el objetivo principal del equipo es dar a conocer la información recolectada y con base a ello se hace una importancia en cuanto a los requerimientos que se encargan de proporcionar la información al usuario.
+Para la importancia de los requerimientos se tomó como criterio la importancia del contenido; el objetivo principal del equipo es dar a conocer la información recolectada y con base a ello se hizo su importancia en cuanto a los requerimientos que se encargan de proporcionar la información al usuario.
 ## Requerimientos de usuario:
 Usuario: Ser que usa el sistema.
 
