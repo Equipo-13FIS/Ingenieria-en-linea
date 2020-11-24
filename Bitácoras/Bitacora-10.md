@@ -1,19 +1,19 @@
 # Bitacora 10
 
-## 17 de Noviembre
+## 17 de Noviembre.
 
-## Plan de proyecto
+## Plan de proyecto.
 
-Al obtener el asignamiento de las actividades, se realizo un
-documento en donde poniamos informacion general del proyecto,
-mismo que nos sirvio en la plataforma de github.
-Este documento contiene
-- Objetivo
-- Requerimientos 
-- Calendario de actividades y encargados.
+Al obtener el asignamiento de las actividades por realizar, se realizó un
+documento en donde en equipo poníamos información general del proyecto,
+mismo que nos sirvió en la elaboración y adaptación a la plataforma de github.
+Este documento contiene:
+- Los Objetivo.
+- Los Requerimientos.
+- El Calendario de actividades y encargados.
 
 El documentos lo creamos en 
-Microsoft Word: colaboración en documentos de Word
+Microsoft Word: colaboración en documentos de Word.
 
 ## Participantes:
 
