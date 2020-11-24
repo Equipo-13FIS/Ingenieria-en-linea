@@ -21,8 +21,8 @@ estudiar y/o trabajar una ingeniería en la modalidad de trabajo desde casa, y c
 acerca de esta forma de desarrollarse académicamente y laboralmente.
 
 ## ¿A quién está dirigido?
-La "Ingeniería en Línea" está dirigido a todo alumno o egresado que quiere desenvolverse de manera académica o laboral en el campo 
-de las ingenierías. Sacar de duda a todos aquellos que se preguntan como es trabajar desde casa, todas las inseguridades que tienen y saber que realmente necesitan para poder desenvolverse.
+La "Ingeniería en Línea" está dirigido principalmente a los estudiantes y/o profesionistas que quiere desenvolverse den el campo 
+de las ingenierías. Sacar de duda a todos aquellos como interesados en la carrera, actualmente cursadores o ya egresados que se preguntan como es trabajar desde casa, todas las inseguridades que tienen y saber que realmente necesitan para poder desenvolverse.
 
 ## Indice
 
