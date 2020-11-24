@@ -10,5 +10,15 @@ apropiado, y para que la mayoría del equipo pueda trabajar en conjunto.
 Para finalizar, guardamos el archivo word en un drive, creamos un nuevo archivo en el repositorio y ahí nos dimos cuenta que no sabíamos como exportar el calendario al repositorio,
 por lo que decidimos simplemente colocar el link al drive, así igual podriamos ahorrarnos el estar actualizandolo cada vez que hagamos nuevos ajustes.
 
-Participantes:
-Gabriela Batun, Karyme Bautista, Emanuel Chavez, Alfonso Pacheco, Patricio Peña
+## Participantes:
+
+- Gabriela Batun.
+
+- Karyme Bautista.
+
+- Emanuel Chavez.
+
+- Alfonso Pacheco.
+
+- Patricio Peña.
+
