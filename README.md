@@ -1,6 +1,6 @@
 # Ingeniería en línea.
 
-### Equipo 13
+### Equipo 13.
 - Patricio Peña Ojeda.
 - Esteban Alfonso Pacheco Serralta.
 - Karyme Maylin Bautista Poot.
