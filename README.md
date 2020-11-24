@@ -1,11 +1,11 @@
 # Ingeniería en línea
 
 ### Equipo 13
-- Patricio Peña Ojeda
-- Esteban Alfonso Pacheco Serralta 
-- Karyme Maylin Bautista Poot 
-- Emanuel Rafael Chávez Bagundo 
-- Lourdes Gabriela Batun Ceme 
+- Patricio Peña Ojeda.
+- Esteban Alfonso Pacheco Serralta.
+- Karyme Maylin Bautista Poot.
+- Emanuel Rafael Chávez Bagundo.
+- Lourdes Gabriela Batun Ceme. 
 
 ## Introducción
 
