@@ -22,3 +22,4 @@ por lo que decidimos simplemente colocar el link al drive, así igual podriamos 
 
 - Patricio Peña.
 
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
