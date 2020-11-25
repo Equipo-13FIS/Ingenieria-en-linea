@@ -17,3 +17,5 @@ Al finalizar la reunión con el profesor por la plicación de Microsoft Teams, r
 - Alfonso Pacheco.
 
 - Patricio Peña.
+
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
