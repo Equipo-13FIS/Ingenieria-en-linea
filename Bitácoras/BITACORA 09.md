@@ -11,7 +11,7 @@ a cada integrante y cuales ya fueron realizadas.
 Para la comunicación definimos que seria WhatsApp pues en esta applicacion nos ponemos de acuerdo para todo, al igual que usaremos
 teams para hacer reuniones para ir revisando los avances que hacemos e ir corrigiendo entre todos.
 
-##PARTICIPANTES
+## PARTICIPANTES
 
 - Gabriela Batun.
 
