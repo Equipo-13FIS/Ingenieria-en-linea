@@ -5,11 +5,15 @@ Específicamente a estudiantes de la carrera de Ingeniería de Software que curs
 
 ## Objetivo general
 Crear una herramienta para alumnos de nuevo ingreso con información importante sobre la modalidad virtual de Ingeniería en Software.
+
 ## Objetivos específicos
 Descubrir cual es la información que requiere el usuario.
 Resumir la información que se necesite para usarla en la plataforma.
 
+
+
 # Plan de Investigación: 
+
 ## Requerimientos del usuario
 -Contendrá inicio con índice para desplazarse.
 
@@ -37,3 +41,5 @@ Resumir la información que se necesite para usarla en la plataforma.
 -Al sitio se podrá ingresar desde un dispositivo electrónico que tenga acceso a internet.
 
 -Las dimensiones visuales se adaptarán a cualquier dispositivo que pueda acceder a la página.
+
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
