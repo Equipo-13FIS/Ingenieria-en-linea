@@ -26,3 +26,5 @@ Microsoft Word: colaboración en documentos de Word.
 - Alfonso Pacheco.
 
 - Patricio Peña.
+
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
