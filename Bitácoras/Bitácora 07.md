@@ -21,3 +21,4 @@ Esta sesión la realizamos por whatsApp, gitHub y Microsoft Teams.
 
 - Patricio Peña.
 
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
