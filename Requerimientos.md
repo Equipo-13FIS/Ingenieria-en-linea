@@ -4,22 +4,31 @@ para alumnos y docentes sobre la educación virtual. Se realizó una encuesta en
 
 -¿Consideras la escuela en línea como una formalidad académica útil?
     85.4% sí y 14.6% no.
+    
 -¿Dudaste en cursar el semestre por no ser con la formalidad presencial?
     58.5% sí y 41.5% no.
+    
 -¿Sería de utilidad la opinión de los que cursaron en línea el semestre para los de nuevo ingreso?
      85.4% sí y 14.6% no.
+     
 -¿La formalidad en línea te parece buena opción académica?
     36.6% sí y 63.4% no.
+    
 -¿Te gustaría compartir tu experiencia de clases en línea con tus compañeros de carrera?
     51.2% sí y 48.8% no.
+    
 -¿Preferirías cursar un semestre en línea o esperar hasta la formalidad presencial?
     65.9% Cursar y 34.1% esperar.
+    
 -¿Consideras que sería de utilidad saber que materiales son los más esenciales para los de nuevo ingreso?
     92.7%sí y 7.3% no.
+    
 -¿Sientes que estás aprendiendo con la formalidad digital?
     53.7%sí y 46.3% no.
+    
 -¿Te gustaría apoyar a los maestros y alumnos de nuevo ingreso para un mejor desarrollo académico?
     85.4% sí y 14.6% no.
+    
 ¿Consideras útil una página web con lo antes mencionado?
     90.2% sí y 9.8% no.
     
