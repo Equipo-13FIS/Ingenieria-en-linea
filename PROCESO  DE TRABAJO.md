@@ -1,11 +1,11 @@
-PROCESO DE TRABAJO
+# PROCESO DE TRABAJO
 
 EN EL SIGUIENTE ENLACE  SE MUESTRA El ARCHIVO DE LAS APLICACIONES Y HERRAMIENTAS QUE ESTAREMOS USANDO . 
 https://drive.google.com/file/d/1Vohdito8-rxJXoJNQBkE6AtZzzexlEOW/view?usp=sharing
 
 Organización y gestión de tareas:
 
-**TRELLO**  
+## **TRELLO**  
 
 Trello es una de las mejores herramientas para la organización de tareas, ya que es
 muy compleja y esta completa, pueden trabajar hasta 20 personas en un solo
@@ -35,7 +35,7 @@ cuales ya han sido terminadas.
 
 Medios de comunicación:
 
-**WhatsApp y Teams**
+## **WhatsApp y Teams**
 
 WhatsApp es una aplicación de mensajería instantánea en donde se envía texto y
 multimedia entre usuarios, en donde como equipo nos vamos poniendo de acuerdo
@@ -57,3 +57,5 @@ función, a demás que podemos
 realiza.
 
 5.Compartir archivos o imágenes en el chat
+
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
