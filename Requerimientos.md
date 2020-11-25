@@ -20,7 +20,7 @@ para las clases en línea.
 -El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección de Consejos del ingeniero que consta de consejos de ingenieros que trabajan 
 de manera virtual.
 
--El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver la sección Documentos que permite ingresar a un sub-índice donde puedes ver secciones en el 
+-El usuario podrá acceder a Ingeniería-en-línea para navegar con el índice para ver un subíndice llamado Documentos que permite ingresar a donde puedes ver secciones en el 
 que puedes ver los diferentes documentos que puedes solicitar en la facultad de matemáticas y explica cómo tramitar los documentos entre los documentos tenemos constancia de 
 alumno inscrito, constancia de servicio médico, prácticas profesionales, servicio social,constancia de asignaturas aprobadas en el periodo, constancia de todas las asignaturas
 aprobadas, Kardex, Becas, carta pasante, certificado de estudios, titulación MEFI,titulación MEYA, titulación en posgrado, seguro facultativo y baja.
