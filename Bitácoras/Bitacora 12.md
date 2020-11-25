@@ -20,3 +20,5 @@ aún no habíamos concluido a la fecha.
 - Alfonso Pacheco
 
 - Patricio Peña
+
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
