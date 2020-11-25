@@ -18,4 +18,4 @@ Al finalizar la reunión con el profesor por la plicación de Microsoft Teams, r
 
 - Patricio Peña.
 
-[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
