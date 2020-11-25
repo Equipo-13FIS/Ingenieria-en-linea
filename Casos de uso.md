@@ -1,6 +1,6 @@
-## Casos de uso:
+# Casos de uso:
  
-# Caso de uso 001: Ingresar a Dinámicas
+## Caso de uso 001: Ingresar a Dinámicas
 Descripción: El usuario ingresa a la sección  Dinámicas
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -8,7 +8,7 @@ Secuencia:
 3. El usuario contempla el contenido.
 Salidas alternas: N-A
 
-# Caso de uso 002: Ingresar a Experiencias
+## Caso de uso 002: Ingresar a Experiencias
 Descripción: El usuario ingresa a la sección  Experiencias
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -16,7 +16,7 @@ Secuencia:
 3. El usuario contempla el contenido.
 Salidas alternas: N-A
 
-# Caso de uso 003: Ingresar a Guías y consejos.
+## Caso de uso 003: Ingresar a Guías y consejos.
 Descripción: El usuario ingresa a la sección  Guías y consejos
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -24,7 +24,7 @@ Secuencia:
 3. El usuario contempla el contenido.
 Salidas alternas: N-A
 
-# Caso de uso 004: Ingresar a Ventajas de la modalidad virtual.
+## Caso de uso 004: Ingresar a Ventajas de la modalidad virtual.
 Descripción: El usuario ingresa a la sección  Ventajas de la modalidad virtual.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -32,7 +32,7 @@ Secuencia:
 3. El usuario contempla el contenido.
 Salidas alternas: N-A
 
-# Caso de uso 005: Ingresar a Herramientas y aplicaciones.
+## Caso de uso 005: Ingresar a Herramientas y aplicaciones.
 Descripción: El usuario ingresa a la sección  Herramientas y aplicaciones.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -40,7 +40,7 @@ Secuencia:
 3. El usuario contempla el contenido.
 Salidas alternas: N-A
 
-# Caso de uso 006: Ingresar a Consejos del ingeniero.
+## Caso de uso 006: Ingresar a Consejos del ingeniero.
 Descripción: El usuario ingresa a Consejos del ingeniero.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -48,7 +48,7 @@ Secuencia:
 3. El usuario contempla el contenido.
 Salidas alternas: N-A
 
-# Caso de uso 007:  Constancia de alumno .
+## Caso de uso 007:  Constancia de alumno .
 Descripción: El usuario ingresa a una sección llamada Constancia de alumno .
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -56,7 +56,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona Constancia de alumno.
 Salidas alternas: N-A.
 
-# Caso de uso 008:  Constancia de servicio médico .
+## Caso de uso 008:  Constancia de servicio médico .
 Descripción: El usuario ingresa a una sección llamada Constancia de Servicio médico .
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -64,7 +64,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona Constancia de Servicio médico.
 Salidas alternas: N-A.
 
-# Caso de uso 009:  Prácticas profesionales .
+## Caso de uso 009:  Prácticas profesionales .
 Descripción: El usuario ingresa a una sección llamada Prácticas profesionales .
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -72,7 +72,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona Prácticas profesionales.
 Salidas alternas: N-A.
 
-# Caso de uso 010:  servicio social .
+## Caso de uso 010:  servicio social .
 Descripción: El usuario ingresa a una sección llamada servicio social.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -80,7 +80,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona servicio social.
 Salidas alternas: N-A.
 
-# Caso de uso 011: constancia de asignaturas aprobadas en el periodo .
+## Caso de uso 011: constancia de asignaturas aprobadas en el periodo .
 Descripción: El usuario ingresa a una sección llamada constancia de asignaturas aprobadas en el periodo.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -89,7 +89,7 @@ Secuencia:
 Salidas alternas: N-A.
 
 
-# Caso de uso 012:  constancia de todas las asignaturas aprobadas .
+## Caso de uso 012:  constancia de todas las asignaturas aprobadas .
 Descripción: El usuario ingresa a una sección llamada constancia de todas las asignaturas aprobadas.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -97,7 +97,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona constancia de todas las asignaturas aprobadas.
 Salidas alternas: N-A.
 
-# Caso de uso 013:  Kardex .
+## Caso de uso 013:  Kardex .
 Descripción: El usuario ingresa a una sección llamada Kardex.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -105,7 +105,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona  Kardex.
 Salidas alternas: N-A.
 
-# Caso de uso 014:   Beca .
+## Caso de uso 014:   Beca .
 Descripción: El usuario ingresa a una sección llamada  Beca.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -113,7 +113,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   Beca.
 Salidas alternas: N-A.
 
-# Caso de uso 015:   Beca .
+## Caso de uso 015:   Beca .
 Descripción: El usuario ingresa a una sección llamada  Beca.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -121,7 +121,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   Beca.
 Salidas alternas: N-A.
 
-# Caso de uso 016:   carta pasante .
+## Caso de uso 016:   carta pasante .
 Descripción: El usuario ingresa a una sección llamada  carta pasante.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -129,7 +129,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   carta pasante.
 Salidas alternas: N-A.
 
-# Caso de uso 017:   certificado de estudios .
+## Caso de uso 017:   certificado de estudios .
 Descripción: El usuario ingresa a una sección llamada  certificado de estudios.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -137,7 +137,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   certificado de estudios.
 Salidas alternas: N-A.
 
-# Caso de uso 018:   titulación MEFI.
+## Caso de uso 018:   titulación MEFI.
 Descripción: El usuario ingresa a una sección llamada  titulación MEFI.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -145,7 +145,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   titulación MEFI.
 Salidas alternas: N-A.
 
-# Caso de uso 019:   titulación MEYA.
+## Caso de uso 019:   titulación MEYA.
 Descripción: El usuario ingresa a una sección llamada  titulación MEYA.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -153,7 +153,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   titulación MEYA.
 Salidas alternas: N-A.
 
-# Caso de uso 020:   titulación en posgrado.
+## Caso de uso 020:   titulación en posgrado.
 Descripción: El usuario ingresa a una sección llamada  titulación en posgrado.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -161,7 +161,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   titulación en posgrado.
 Salidas alternas: N-A.
 
-# Caso de uso 021:  seguro facultativo.
+## Caso de uso 021:  seguro facultativo.
 Descripción: El usuario ingresa a una sección llamada  seguro facultativo.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -169,7 +169,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   seguro facultativo.
 Salidas alternas: N-A.
 
-# Caso de uso 022:  baja.
+## Caso de uso 022:  baja.
 Descripción: El usuario ingresa a una sección llamada  baja.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
@@ -177,7 +177,7 @@ Secuencia:
 3. El usuario despliega vínculos ocultos y selecciona   baja.
 Salidas alternas: N-A.
 
-# Caso de uso 023:  actualizaciones.
+## Caso de uso 023:  actualizaciones.
 Descripción: Se observa en un panel los cambios que se han hecho en quince días.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
