@@ -118,3 +118,5 @@ Descripción: En el inicio se colocará un índice para acceder a las secciones.
 Prioridad: Media.
 
 Descripción: El sistema tendrá actualizaciones del contenido cada 15 días.
+
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
