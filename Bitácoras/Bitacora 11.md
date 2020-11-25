@@ -25,4 +25,4 @@ reunion fue a traves de la aplicacion WhatsApp.
 
 - Patricio Peña
 
-[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
