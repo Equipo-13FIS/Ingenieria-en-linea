@@ -183,3 +183,5 @@ Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
 2. El usuario observa el panel que se encuentra en Ingeniera-en-linea, sus secciones y el inicio.
 Salidas alternas: N-A.
+
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
