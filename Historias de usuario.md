@@ -1,3 +1,5 @@
+# Historias de Usuario
+
 Para clasificar la importancia de las historias de usuario se toma en cuenta una encuesta que se realizó para realizar preguntas generales de posibles temas a tratar y
 en base a la aceptación que tuvieron los encuestados se llegó a tomar como criterios para clasificar la importancia de las mismas en las historias que se referían a temas que
 benefician al usuario en el sentido informativo sobre el tema que más desean conocer.
