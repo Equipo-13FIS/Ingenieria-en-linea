@@ -5,3 +5,4 @@ casa puede ser una alternativa igual o mejor que de forma presencial, se puede a
 actual que se está viviendo para seguir creciendo como estudiantes y profesionistas mediante una páguina web contenida de información, estadísticas y puntos de vista de profecionistas y estudiantes. El mundo ha cambiado como
 lo conocemos, pero nosotros como ingenieros debemos seguir trabajando y estudiando para hacer de este mundo un mejor lugar.
 
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
