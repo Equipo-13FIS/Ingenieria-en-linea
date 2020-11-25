@@ -9,9 +9,14 @@ de los medios de comunicación. Sin embargo, nos dimos cuenta que aún no tenía
 escribir cada uno entre 2-3 bitácoras que consideramos necesarias y subirlas a mas tardar el 25 de noviembre de 2020, además de continuar nuestros trabajos que
 aún no habíamos concluido a la fecha.
 
-Integrantes:
-## Patricio Peña
-## Esteban Pacheco
-## Karyme Bautista
-## Emanuel Chávez
-## Gabriela Batun
+## Participantes 
+
+- Gabriela Batun
+
+- Karyme Bautista
+
+- Emanuel Chavez
+
+- Alfonso Pacheco
+
+- Patricio Peña
