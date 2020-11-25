@@ -60,7 +60,7 @@ Descripción: El sistema permitirá a cualquiera ingresar al sitio web sin restr
 
 Prioridad: Alta.
 
-Descripción: El sitio web estará adaptado para que se pueda acceder desde el celular, computadora y tablet. Será un sitio responsive.
+Descripción: La página web estará adaptada para que se pueda acceder desde el celular, computadora y tablet. Será un sitio responsive.
 
 -RNF003 Índice para todas las secciones.
 
