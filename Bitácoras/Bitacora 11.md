@@ -13,7 +13,7 @@ El documentos lo creamos en
 Microsoft Word: colaboración en documentos de Word y
 reunion fue a traves de la aplicacion WhatsApp.
 
-## Participantes 
+## Participantes :
 
 - Gabriela Batun
 
