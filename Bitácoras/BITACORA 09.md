@@ -23,5 +23,5 @@ teams para hacer reuniones para ir revisando los avances que hacemos e ir corrig
 
 - Patricio Peña.
 
-[Página principal] (https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/edit/main/README.md)
 
