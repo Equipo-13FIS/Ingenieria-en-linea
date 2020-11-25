@@ -108,3 +108,5 @@ Como usuario quiero que la página pueda visualizarse en cualquier dispositivo, 
 Condiciones:
 - La página será responsive(se adaptará a las dimensiones de los dispositivos que ingresen)
 - Las letras, el índice y el panel no cambiarán de posición para ponerse uno sobre otro.  
+
+[Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
