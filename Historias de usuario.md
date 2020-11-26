@@ -33,7 +33,7 @@ escolar 2020-2021 para poder decidir si es una buena idea inscribirse en las car
 ofrece la institución.
 
 Condiciones:
-- El sistema debe permitir al usuario ingresar a la sección con la información que desea visualizar.
+- El sistema permite al usuario ingresar a la sección con la información que desea visualizar.
 
 Historia de usuario 004:
 
@@ -43,7 +43,7 @@ Como usuario quiero una sección que hable de las experiencias de los alumnos de
 comprenda como se sienten en esta modalidad totalmente virtual.
 
 Condiciones:
-- El sistema debe permitir al usuario ingresar a la sección con la información que desea visualizar.
+- El sistema concede al usuario ingresar a la sección con la información que desea visualizar.
 
 Historia de usuario 005:
 
@@ -63,7 +63,7 @@ Como usuario quiero una sección que hable de ventajas de estudiar en línea par
 desarrollo académico y profesional.
 
 Condiciones:
-- El sistema debe permitir al usuario ingresar a la sección con la información que desea visualizar.
+- El sistema da acceso al usuario para ingresar a la sección con la información que desea visualizar.
 
 Historia de usuario 007:
 
