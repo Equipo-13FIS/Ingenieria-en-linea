@@ -57,5 +57,7 @@ función, a demás que podemos
 realiza.
 
 5.Compartir archivos o imágenes en el chat
+ 
+## Gestión de calidad
 
 [Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
