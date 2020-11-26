@@ -36,7 +36,10 @@ de las ingenierías. Sacar de duda a todos aquellos como interesados en la carre
 
 5.[Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
 
-## Bitacoras
+## Bitacoras 
+[Carpeta de bitacoras](https://github.com/Equipo-13FIS/Ingenieria-en-linea/tree/main/Bit%C3%A1coras)
+
+
 [Bitacora 2 ](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitácora%202.md)
 
 [Bitacora 10](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitacora-10.md)
