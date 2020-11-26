@@ -58,4 +58,16 @@ realiza.
  
 ## Gestión de calidad
 
+Para evaluar la calidad de nuestro proyecto, utilizaremos el modelo de calidad FURPS que se basa en 5 principios:
+
+-Functionality (Funcionalidad).Comprobaremos mediante pruebas el buen funcionamiento de la página con la "prueba de humo".
+ 
+-Usability (Usabilidad). Mediante algunos voluntarios, verificaremos la usabilidad de l página y su interacción con el usuario.
+
+-Reliability (Confiabilidad). Para lograr tener una página confiable, realizaremos de manera cuantitativa el uso esperado del sistema mediante la definición del llamado perfil de operación del sistema.
+
+-Perfomance (Prestación) Realizaremos distintas pruebas al sistema para observar su desempeño al ser utilizado por un usuario que interactue con este.
+
+-Supportability (Soporte). Controlaremos la calidad del sistema para corregir daños o problemas que pueda presentar en un futuro.
+
 [Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
