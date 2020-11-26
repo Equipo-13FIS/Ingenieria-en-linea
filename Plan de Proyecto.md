@@ -4,7 +4,7 @@ La mayoría de los estudiantes de nuevo ingreso al principio se encuentran desor
 Específicamente a estudiantes de la carrera de Ingeniería de Software que cursan en la Facultad de Matemáticas de la Universidad Autónoma de Yucatán.
 
 ## Objetivo general
-Crear una herramienta para alumnos de nuevo ingreso con información importante sobre la modalidad virtual de Ingeniería en Software.
+Desarrollar una herramienta para alumnos de nuevo ingreso con información importante sobre la modalidad virtual de Ingeniería en Software.
 
 ## Objetivos específicos
 - Descubrir cual es la información que requiere el usuario.
