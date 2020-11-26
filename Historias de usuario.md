@@ -2,7 +2,8 @@
 
 Para clasificar la importancia de las historias de usuario se toma en cuenta una encuesta que se realizó para realizar preguntas generales de posibles temas a tratar y
 en base a la aceptación que tuvieron los encuestados se llegó a tomar como criterios para clasificar la importancia de las mismas en las historias que se referían a temas que
-benefician al usuario en el sentido informativo sobre el tema que más desean conocer.
+benefician al usuario en el sentido informativo sobre el tema que más desean conocer; por otro lado, se tomó el método MoSCoW para clasificar la importancia de las
+historias del usuario en el sistema.
 ## Historia de usuario 001:
 
 **Prioridad:** Media.
