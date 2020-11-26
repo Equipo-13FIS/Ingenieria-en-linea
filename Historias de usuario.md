@@ -4,6 +4,7 @@ Para clasificar la importancia de las historias de usuario se toma en cuenta una
 en base a la aceptación que tuvieron los encuestados se llegó a tomar como criterios para clasificar la importancia de las mismas en las historias que se referían a temas que
 benefician al usuario en el sentido informativo sobre el tema que más desean conocer; por otro lado, se tomó el método MoSCoW para clasificar la importancia de las
 historias del usuario en el sistema.
+Se usa historias de usuario en vez de requerimientos porque se está trabajando en el desarrollo de este proyecto con una metodología ágil basada en Scrum. Para este desarrollo de producto se considera importante contar con historias de usuario en vez de los requerimientos porque se quiere fomentar la colaboración con los usuarios que serían los interesados en ingresar a la carrera de ingeniería de software de la facultad de matemáticas de la UADY.
 ## Historia de usuario 001:
 
 **Prioridad:** Media.
