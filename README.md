@@ -17,14 +17,11 @@ Por eso hemos decidido desarrollar una plataforma que contenga todo lo necesario
 
 ## ¿Qué es Ingeniería en Línea?
 "Ingeniería en Línea" es una página web donde encontraras todo tipo de información como tips, puntos de vista, pros y contras de lo que
-estudiar y/o trabajar una ingeniería en la modalidad de trabajo desde casa, y contestar toda aquella duda que las personas tienen 
-acerca de esta forma de desarrollarse académicamente y laboralmente.
+estudiar y/o trabajar la ingeniería de software en la modalidad de trabajo desde casa, y contestar toda aquella duda que las personas tienen 
+acerca de esta forma de desarrollarse académicamente.
 
 ## ¿A quién está dirigido?
-La "Ingeniería en Línea" está dirigido principalmente a los estudiantes y/o profesionistas que quiere desenvolverse den el campo 
-de las ingenierías. Sacar de duda a todos aquellos como interesados en la carrera, actualmente cursadores o ya egresados que se preguntan como es trabajar desde casa, todas las inseguridades que tienen y saber que realmente necesitan para poder desenvolverse.
-
-## Indice:
+La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran estudiar la carrera de Ingeniería de Software.
 
 1.[Objetivos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Objetivos.md)
 
