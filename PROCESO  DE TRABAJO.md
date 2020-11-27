@@ -72,7 +72,9 @@ Para evaluar la calidad de nuestro proyecto, utilizaremos el modelo de calidad F
 
 ## **Investigación e información requerida**
 
-	Para este proyecto, es necesario que cada uno de los integrantes del equipo sepa los lenguajes de programación de HTML y CSS, puesto que son los lenguajes que usaremos a lo largo del proyecto. Es por esto que decidimos como equipo participar en el curso virtual impartido por DevCodeLA sobre programación con HTML y CSS gratuito. Consiste de 12 sesiones de aproximadamente 3-5 horas, donde se aprenderá a maquetar sitios Web con HTML5 y a brindar estilos con CSS. El curso incluye una gran cantidad de clases en video y proyectos y ejercicios prácticos durante todo el curso. Además de un certificado de completitud al finalizar. Para mas información, entrar a: https://devcode.la/cursos/html-css/
+Para este proyecto, es necesario que cada uno de los integrantes del equipo sepa los lenguajes de programación de HTML y CSS, puesto que son los lenguajes que usaremos a lo largo del proyecto. Es por esto que decidimos como equipo participar en el curso virtual impartido por DevCodeLA sobre programación con HTML y CSS gratuito. Consiste de 12 sesiones de aproximadamente 3-5 horas, donde se aprenderá a maquetar sitios Web con HTML5 y a brindar estilos con CSS. El curso incluye una gran cantidad de clases en video y proyectos y ejercicios prácticos durante todo el curso. Además de un certificado de completitud al finalizar. 
+
+Para mas información, entrar a: https://devcode.la/cursos/html-css/
  
  
 ## **Sprints** 
