@@ -60,14 +60,14 @@ Salidas alternas: N-A.
 Descripción: El usuario ingresa a una sección llamada Constancia de Servicio médico .
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
-2. El usuario ingresa al índice del inicio para desplegar un subíndice llamado Documentos.
+2. El usuario entra al índice del inicio para desplegar un subíndice llamado Documentos.
 3. El usuario despliega vínculos ocultos y selecciona Constancia de Servicio médico.
 Salidas alternas: N-A.
 
 ## Caso de uso 009:  Prácticas profesionales .
 Descripción: El usuario ingresa a una sección llamada Prácticas profesionales .
 Secuencia:
-1. El usuario ingresa a Ingenieria-en-linea
+1. El usuario accede a Ingenieria-en-linea
 2. El usuario ingresa al índice del inicio para desplegar un subíndice llamado Documentos.
 3. El usuario activa vínculos ocultos y selecciona Prácticas profesionales.
 Salidas alternas: N-A.
@@ -84,7 +84,7 @@ Salidas alternas: N-A.
 Descripción: El usuario entra a una sección llamada constancia de asignaturas aprobadas en el periodo.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
-2. El usuario ingresa al índice del inicio para desplegar un subíndice llamado Documentos.
+2. El usuario entra al índice del inicio para desplegar un subíndice llamado Documentos.
 3. El usuario despliega vínculos ocultos y selecciona constancia de asignaturas aprobadas en el periodo.
 Salidas alternas: N-A.
 
@@ -92,7 +92,7 @@ Salidas alternas: N-A.
 ## Caso de uso 012:  constancia de todas las asignaturas aprobadas .
 Descripción: El usuario ingresa a una sección llamada constancia de todas las asignaturas aprobadas.
 Secuencia:
-1. El usuario ingresa a Ingenieria-en-linea
+1. El usuario accede a Ingenieria-en-linea
 2. El usuario ingresa al índice del inicio para desplegar un subíndice llamado Documentos.
 3. El usuario despliega vínculos ocultos y selecciona constancia de todas las asignaturas aprobadas.
 Salidas alternas: N-A.
@@ -100,7 +100,7 @@ Salidas alternas: N-A.
 ## Caso de uso 013:  Kardex .
 Descripción: El usuario ingresa a una sección llamada Kardex.
 Secuencia:
-1. El usuario ingresa a Ingenieria-en-linea
+1. El usuario entra a Ingenieria-en-linea
 2. El usuario ingresa al índice del inicio para desplegar un subíndice llamado Documentos.
 3. El usuario despliega vínculos ocultos y selecciona  Kardex.
 Salidas alternas: N-A.
@@ -109,14 +109,14 @@ Salidas alternas: N-A.
 Descripción: El accede a una sección llamada  Beca.
 Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
-2. El usuario ingresa al índice del inicio para desplegar un subíndice llamado Documentos.
+2. El usuario entra al índice del inicio para desplegar un subíndice llamado Documentos.
 3. El usuario despliega vínculos ocultos y selecciona   Beca.
 Salidas alternas: N-A.
 
 ## Caso de uso 015:   Beca .
 Descripción: El usuario ingresa a una sección llamada  Beca.
 Secuencia:
-1. El usuario ingresa a Ingenieria-en-linea
+1. El usuario accede a Ingenieria-en-linea
 2. El usuario ingresa al índice del inicio para desplegar un subíndice llamado Documentos.
 3. El usuario despliega vínculos ocultos y selecciona   Beca.
 Salidas alternas: N-A.
@@ -183,5 +183,13 @@ Secuencia:
 1. El usuario ingresa a Ingenieria-en-linea
 2. El usuario observa el panel que se encuentra en Ingeniera-en-linea, sus secciones y el inicio.
 Salidas alternas: N-A.
+
+## Caso de uso 024: Ingresar a Estudiar es importante.
+Descripción: El usuario ingresa a la sección llamada Estudiar es importante.
+Secuencia:
+1. El usuario accede a Ingenieria-en-linea.
+2. El usuario entra al índice del inicio para entrar a la sección usando el vínculo con el mismo nombre.
+3. El usuario observa el contenido.
+Salidas alternas: N-A
 
 [Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
