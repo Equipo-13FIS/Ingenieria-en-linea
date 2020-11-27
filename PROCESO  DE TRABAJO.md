@@ -70,24 +70,24 @@ Para evaluar la calidad de nuestro proyecto, utilizaremos el modelo de calidad F
 
 - Supportability (Soporte). Controlaremos la calidad del sistema para corregir daños o problemas que pueda presentar en un futuro.
 
-## **SPRINTS** 
+## **Sprints** 
 
-Durante el proceso de elaboración del software “ingeniería en línea”, se realizarán los Sprint que ayudarán a realizar las tareas en el tiempo establecido que no pasará de las 4 semanas. Las características que se tomaran en cuenta son: 
+Durante el proceso de elaboración del software “ingeniería en línea”, se realizarán los Sprint que ayudarán a realizar las tareas en el tiempo establecido cada Sprint será en un lapso de una a dos semanas, en total serán tres Sprints. Las características que se tomaran en cuenta son: 
 1.	La tarea asignada deberá ser entrega en la fecha establecida por el equipo.
-2.	Durante el sprint no se podrán realizar cambios que puedan poner en riesgo el objetivo.
+2.	Durante el Sprint no se podrán realizar cambios que puedan poner en riesgo el objetivo.
 3.	Se asignara un tiempo para corregir errores pero no se podrá alargar la fecha de entrega ya establecida. 
 
-PLANEACION DEL SPRINT
+Planeación del Sprint
 
 Antes de empezar con el sprint se realizó la planeación en donde se asignan las tareas a realizar de cada integrante, de igual manera se especifican los requisitos y objetivos a lograr.
 Daily Scrum 
 Cada día en un horario establecido por el equipo se realizara una verificación de los avances que se hayan hecho en el grupo de whatsApp
 
-ENTREGAS 
+Entregas 
 
 Para poder aprobar la tarea como entregada el equipo verificara que contenga los objetivos que se establecieron.
 
-REVISION DE SPRIT 
+Revisión del Sprint 
 
 Al final del Sprint se hará una revisión a la tarea asignada, se evaluara que contenga todo lo pedido, se detectaran los problemas y se analizara como se resolvieron los problemas.  
 
