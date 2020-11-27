@@ -77,17 +77,17 @@ Durante el proceso de elaboración del software “ingeniería en línea”, se 
 2.	Durante el sprint no se podrán realizar cambios que puedan poner en riesgo el objetivo
 3.	Se asignara un tiempo para corregir errores pero no se podrá alargar la fecha de entrega 
 
-## PLANEACION DEL SPRINT
+PLANEACION DEL SPRINT
 
 Antes de empezar con el sprint se realiza la planeación en donde se asignan las tareas a realizar a cada uno, de igual manera se especificara los requisitos y objetivos a lograr.
 Daily Scrum 
 Cada día en un horario establecido por el equipo se realizara una verificación de los avances que se hayan hecho en el grupo de whatsApp
 
-## ENTREGAS 
+ENTREGAS 
 
 Para poder aprobar la tarea como entregada el equipo verificara que contenga los objetivos que se establecieron
 
-## REVISION DE SPRIT 
+REVISION DE SPRIT 
 
 Al final del Sprint se hará una revisión a la tarea asignada, se evaluara que contenga todo lo pedido, se detectaran los problemas y se analizara como se resolvieron los problemas.  
 
