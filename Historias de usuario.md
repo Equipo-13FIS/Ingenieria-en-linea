@@ -5,7 +5,8 @@ en base a la aceptación que tuvieron los encuestados se llegó a tomar como cri
 benefician al usuario en el sentido informativo sobre el tema que más desean conocer; por otro lado, se tomó el método MoSCoW para clasificar la importancia de las
 historias del usuario en el sistema.
 Se usa historias de usuario en vez de requerimientos porque se está trabajando en el desarrollo de este proyecto con una metodología ágil basada en Scrum. Para este desarrollo de producto se considera importante contar con historias de usuario en vez de los requerimientos porque se quiere fomentar la colaboración con los usuarios que serían los interesados en ingresar a la carrera de ingeniería de software de la facultad de matemáticas de la UADY.
-## Historia de usuario 001:
+
+## Historia de usuario 001, Estudiar es importante:
 
 **Prioridad:** Media.
 
@@ -15,7 +16,7 @@ y que no importe la manera en la que se presenta el conocimiento mientras se pre
 ## Condiciones: 
 - El sistema debe permitir al usuario ingresar a la sección con la información que desea visualizar.
 
-## Historia de usuario 002:
+## Historia de usuario 002, Desplazamiento:
 
 **Prioridad:** Alta.
 
@@ -26,7 +27,7 @@ y que no importe la manera en la que se presenta el conocimiento mientras se pre
 - El índice contendrá todas las secciones.
 - Cada índice tendrá un vínculo para regresar al inicio de Ingenieria-en-linea.
 
-## Historia de usuario 003:
+## Historia de usuario 003, Dinámicas:
 
 **Prioridad:** Media.
 
@@ -37,7 +38,7 @@ ofrece la institución.
 ## Condiciones:
 - El sistema permite al usuario ingresar a la sección con la información que desea visualizar.
 
-## Historia de usuario 004:
+## Historia de usuario 004, Experiencias:
 
 **Prioridad:** Media.
 
@@ -47,7 +48,7 @@ comprenda como se sienten en esta modalidad totalmente virtual.
 ## Condiciones:
 - El sistema concede al usuario ingresar a la sección con la información que desea visualizar.
 
-## Historia de usuario 005:
+## Historia de usuario 005, Guías y consejos:
 
 **Prioridad:** Media.
 
@@ -57,7 +58,7 @@ académica tranquila y sin problemas.
 ## Condiciones:
 - El sistema debe permitir al usuario ingresar a la sección con la información que desea visualizar.
 
-## Historia de usuario 006:
+## Historia de usuario 006, Ventajas de la modalidad virtual:
 
 **Prioridad:** Media.
 
@@ -67,7 +68,7 @@ desarrollo académico y profesional.
 ## Condiciones:
 - El sistema da acceso al usuario para ingresar a la sección con la información que desea visualizar.
 
-## Historia de usuario 007:
+## Historia de usuario 007, Herramientas y aplicaciones:
 
 **Prioridad:** Media.
 
@@ -76,7 +77,7 @@ desarrollo académico y profesional.
 ## Condiciones:
 - El sistema debe permitir al usuario ingresar a la sección con la información que desea visualizar.
 
-## Historia de usuario 008:
+## Historia de usuario 008, Documentos:
 
 **Prioridad:** Baja.
 
@@ -89,7 +90,7 @@ que se haga fácil conocerlos y tramitarlos.
 - Cada sección corresponderá a un documento distinto.
 - La sección explicará qué es, para qué sirve y cómo tramitar el documento.
 
-## Historia de usuario 009:
+## Historia de usuario 009, Actualizaciones:
 
 **Prioridad:** Media.
 
@@ -101,7 +102,7 @@ que se haga fácil conocerlos y tramitarlos.
 - Que muestre la fecha en la que se pondrán cambios.
 - Los cambios se harán cada quince días.
 
-## Historia de usuario: 010:
+## Historia de usuario 010, Responsive:
 
 **Prioridad:** Alta.
 
@@ -110,5 +111,14 @@ que se haga fácil conocerlos y tramitarlos.
 ## Condiciones:
 - La página será responsive(se adaptará a las dimensiones de los dispositivos que ingresen)
 - Las letras, el índice y el panel no cambiarán de posición para ponerse uno sobre otro.  
+
+## Historia de usuario 011, Consejos de ingeniero:
+
+**Prioridad:** baja.
+
+**Como** usuario **quiero** que un apartado que hable de consejos de un ingeniero que este trabajando desde casa para entender lo que necesito para trabajar a distancia de manera no presencial.
+
+## Condiciones:
+- El sistema le permite al usuario ver el contenido.
 
 [Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
