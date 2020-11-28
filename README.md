@@ -33,6 +33,8 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 
 5.[Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
 
+6 [Roles](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Roles.md)
+
 ## Bitacoras 
 [Carpeta de bitacoras](https://github.com/Equipo-13FIS/Ingenieria-en-linea/tree/main/Bit%C3%A1coras)
 
