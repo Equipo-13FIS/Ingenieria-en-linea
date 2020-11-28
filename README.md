@@ -28,7 +28,7 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 
 ### Historias de Usuario
 - [Historias de Usuario](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Historias%20de%20usuario.md)
-
+- [Casos de uso](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Casos%20de%20uso.md)
 ### Proceso de desarrollo
 
 ### Trabajo en equipo
