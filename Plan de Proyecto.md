@@ -7,7 +7,7 @@ Específicamente a estudiantes de la carrera de Ingeniería de Software que curs
 Desarrollar una herramienta para alumnos de nuevo ingreso con información importante sobre la modalidad virtual de Ingeniería en Software.
 
 ## Objetivos específicos
-- Descubrir cual es la información que requiere el usuario.
+- Descubrir cuál es la información que requiere el usuario.
 - Resumir la información que se necesite para usarla en la plataforma.
 
 
