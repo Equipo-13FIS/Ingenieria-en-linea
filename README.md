@@ -24,7 +24,7 @@ acerca de esta forma de desarrollarse académicamente.
 La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran estudiar la carrera de Ingeniería de Software en la facultad de matemáticas de la UADY.
 
 ### Descripción de la aplicación
-- [Descripción](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Objetivos.md)
+- [Descripción](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Descripcion.md)
 
 ### Requerimientos 
 
