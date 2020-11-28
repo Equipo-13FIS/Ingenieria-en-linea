@@ -1,6 +1,6 @@
 # Casos de uso:
 
-[Diagrama caso de uso](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/DIagrama-Caso-de-Uso.png)
+[Diagrama de casos de uso](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/DIagrama-Caso-de-Uso.png)
  
 ## Caso de uso 001: Ingresar a Dinámicas
 Descripción: El usuario ingresa a la sección  Dinámicas
