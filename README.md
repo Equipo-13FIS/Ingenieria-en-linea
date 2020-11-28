@@ -40,8 +40,23 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 ## Bitacoras 
 [Carpeta de bitacoras](https://github.com/Equipo-13FIS/Ingenieria-en-linea/tree/main/Bit%C3%A1coras)
 
+[Bitacora 1 ](??)
 
 [Bitacora 2 ](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitácora%202.md)
+
+[Bitacora 3 ](??)
+
+[Bitacora 4 ](??)
+
+[Bitacora 5 ](??)
+
+[Bitacora 6 ](??)
+
+[Bitacora 7 ](??)
+
+[Bitacora 8 ](??)
+
+[Bitacora 9 ](??)
 
 [Bitacora 10](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bitácoras/Bitacora-10.md)
 
