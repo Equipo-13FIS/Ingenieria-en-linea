@@ -23,9 +23,9 @@ y que no importe la manera en la que se presenta el conocimiento mientras se pre
 **Como** usuario **quiero** un índice que me permita desplazarme en Ingeniería-en-linea **para** que se me haga más sencillo visualizar los contenidos que ofrece.
 
 ## Condiciones:
-- El sistema proporciona un índice en cada sección que permite navegar dentro de Ingenieria-en-linea.
+- El sistema proporciona un índice en cada sección que permite navegar dentro de Ingeniería-en-línea.
 - El índice contendrá todas las secciones.
-- Cada índice tendrá un vínculo para regresar al inicio de Ingenieria-en-linea.
+- Cada índice tendrá un vínculo para regresar al inicio de Ingeniería-en-línea.
 
 ## Historia de usuario 003, Dinámicas:
 
@@ -52,7 +52,7 @@ comprenda como se sienten en esta modalidad totalmente virtual.
 
 **Prioridad:** Media.
 
-**Como** usuario **quiero** una sección que hable de guías y consejos de los alumnos de la facultad de matemáticas **para** que pueda comprender como llevar una vida 
+**Como** usuario **quiero** una sección que hable de guías y consejos de los alumnos de la facultad de matemáticas **para**  que pueda comprender como llevar una vida 
 académica tranquila y sin problemas.
 
 ## Condiciones:
@@ -106,7 +106,7 @@ que se haga fácil conocerlos y tramitarlos.
 
 **Prioridad:** Alta.
 
-**Como** usuario **quiero** que la página pueda visualizarse en cualquier dispositivo, haciendo que la página adapte su dimensiones **para** mayor comodidad en la navegación.
+**Como** usuario **quiero** que la página pueda visualizarse en cualquier dispositivo, haciendo que la página adapte sus dimensiones **para** mayor comodidad en la navegación.
 
 ## Condiciones:
 - La página será responsive(se adaptará a las dimensiones de los dispositivos que ingresen)
@@ -116,7 +116,7 @@ que se haga fácil conocerlos y tramitarlos.
 
 **Prioridad:** baja.
 
-**Como** usuario **quiero** que un apartado que hable de consejos de un ingeniero que este trabajando desde casa para entender lo que necesito para trabajar a distancia de manera no presencial.
+**Como** usuario **quiero** que un apartado que hable de consejos de un ingeniero que esté trabajando desde casa para entender lo que necesito para trabajar a distancia de manera no presencial.
 
 ## Condiciones:
 - El sistema le permite al usuario ver el contenido.
