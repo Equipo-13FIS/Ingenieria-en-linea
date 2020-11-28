@@ -26,7 +26,7 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 ### Descripción de la aplicación
 - [Objetivos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Objetivos.md)
 
-### Historias de usuario y requerimientos
+### Requerimientos 
 
 ### Proceso de desarrollo
 
@@ -38,7 +38,6 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 
 - [Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
 
-- [Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
 
 - [Historias de Usuario](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Historias%20de%20usuario.md)
 
