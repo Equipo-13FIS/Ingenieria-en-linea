@@ -23,17 +23,19 @@ acerca de esta forma de desarrollarse académicamente.
 ## ¿A quién está dirigido?
 La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran estudiar la carrera de Ingeniería de Software en la facultad de matemáticas de la UADY.
 
-1.[Objetivos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Objetivos.md)
+- [Objetivos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Objetivos.md)
 
-2.[Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
+- [Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
 
-3.[Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
+- [Requerimentos](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Requerimientos.md)
 
-4.[Proceso del trabajo](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/PROCESO%20%20DE%20TRABAJO.md)
+- [Historias de Usuario](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Historias%20de%20usuario.md)
 
-5.[Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
+- [Proceso del trabajo](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/PROCESO%20%20DE%20TRABAJO.md)
 
-6 [Roles](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Roles.md)
+- [Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
+
+- [Roles](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Roles.md)
 
 ## Bitacoras 
 [Carpeta de bitacoras](https://github.com/Equipo-13FIS/Ingenieria-en-linea/tree/main/Bit%C3%A1coras)
