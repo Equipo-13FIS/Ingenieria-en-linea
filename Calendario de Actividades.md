@@ -11,6 +11,6 @@ para dar retoques menores al producto, pero no para implementar tareas.
 
 - Aunque el calendario esté establecido en un periodo, se seguirá trabajando y modificando durante todo el proceso.
 
-[Calendeario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario.xlsx)
+[Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario.xlsx)
 
 [Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
