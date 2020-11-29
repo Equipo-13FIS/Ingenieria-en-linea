@@ -16,7 +16,7 @@ Nuestro Objetivo principal de este proyecto es el desarrollar una herramienta di
 ## Cliente
 - Nuestro cliente principal será la facultad de matemáticas, ya que esta herramienta le servirá para dar a conocer su metodología de trabajo de calidad en la licenciatura de Ingeniería de Software a través del método digital.
 
-## Inovación
+## Innovación
 - Ingeniería en línea es una herramienta que nosotros los alumnos de nuevo ingreso en esta modalidad necesitamos, la página de la facultad no cuenta con información que nosotros los alumnos necesitamos saber para aprovechar al máximo esta situación. Actualmente no hay nada que podamos hacer para cambiar la situación, pero podemos adaptarnos y sacar el máximo provecho de esta.
 
 [Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
