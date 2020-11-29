@@ -11,9 +11,9 @@
 
 Debido a la situación actual, muchos de nosotros hemos dudado si en verdad vale la pena trabajar en una modalidad en línea desde la
 comodidad de nuestro hogar, aunque antes trabajar en línea era una alternativa, debido a la pandemia el trabajo en línea es la mejor
-opción. Muchas personas se sienten inseguras de los resultados de trabajar y/o estudiar desde casa y nosotros queremos sacarlos de 
+opción. Muchas personas se sienten inseguras de los resultados de trabajar y/o estudiar desde casa y nosotros queremos sacar a todo aspirante a estudiar ingeniería de software de 
 toda duda e inseguridad. 
-Por eso hemos decidido desarrollar una plataforma que contenga todo lo necesario para poderse desenvolver en esta modalidad.
+Por eso hemos decidido desarrollar una plataforma que contenga todo lo necesario para poderse desenvolver en esta modalidad de la mejor manera.
 
 ## ¿Qué es Ingeniería en Línea?
 "Ingeniería en Línea" es una página web donde encontraras todo tipo de información como tips, puntos de vista, pros y contras de lo que es
