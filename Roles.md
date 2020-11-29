@@ -9,3 +9,5 @@ A cada miembro del equipo le es asignado tareas que son sacadas del Product Back
 
 Para llevar un control de las tareas cumplidas y por realizar se utiliza la herramienta Trello. Ya que se puede dar un seguimiento sencillo a la actividad debido a la fácil organización que ofrece la aplicación, en forma de etiqueta, pasa de tarea al nombre de quien realizó, previamente la tarea tendrá entre paréntesis el nombre del encargado 
 de la misma. La métrica se toma en cuenta ciertos criterios especificados en Trello y con base a ello se hace una suma de los que se cumplió.
+
+[Backlog](https://drive.google.com/file/d/1SzIgZldJI9lKHAF_kx7CcSrj78fTaQVG/view?usp=sharing)
