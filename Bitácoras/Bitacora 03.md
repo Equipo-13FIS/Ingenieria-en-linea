@@ -4,7 +4,8 @@
 
 ## ENCUESTA
 
-El líder Patricio Peña realizó una encuesta en Google la cual consistía en preguntas relacionadas al tema que escogimos,
+El profesor Edgar Cambranes nos recomendó elaborar una encuesta de mercado para conocer la necesidad de nuestro proyecto.
+Por lo que, el líder Patricio Peña realizó una encuesta en Google la cual consistía en preguntas relacionadas al tema que escogimos,
 para saber cuál era la opinión de los demás compañeros acerca del tema, de igual manera tener en cuenta
 cuáles son los apartados que ellos consideran que debería tener nuestra página para que sea más eficaz, la 
 encuesta la compartimos en nuestros respectivos grupos de WhatsApp .
