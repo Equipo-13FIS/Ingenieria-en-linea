@@ -37,7 +37,7 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 - [Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
 - [Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
 ### Trabajo en equipo
-
+- [Contribuciones](https://trello.com/b/dXWBUDHJ/ingenier%C3%ADa-en-l%C3%ADnea)
 
 ### Competencias de la Asignatura
 - [Competencias](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Competencias.md)
