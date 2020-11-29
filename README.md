@@ -35,9 +35,9 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 - [Roles](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Roles.md)
 - [Carpeta de bitacoras](https://github.com/Equipo-13FIS/Ingenieria-en-linea/tree/main/Bit%C3%A1coras)
 - [Plan de proyecto](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Plan%20de%20Proyecto.md)
-
-### Trabajo en equipo
 - [Calendario de actividades](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Calendario%20de%20Actividades.md)
+### Trabajo en equipo
+
 
 ### Competencias de la Asignatura
 - [Competencias](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Competencias.md)
@@ -79,3 +79,5 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 [Bitacora 12](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bit%C3%A1coras/Bitacora%2012.md)
 
 [Bitacora 13](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bit%C3%A1coras/Bit%C3%A1cora%2013.md)
+
+[Bitacora 14](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bit%C3%A1coras/Bitacora%2014.md)
