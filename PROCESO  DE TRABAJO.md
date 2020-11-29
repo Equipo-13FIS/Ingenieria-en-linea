@@ -33,6 +33,8 @@ tiempo queda.
 - Monitoreo: Trello permite ver que tareas son asignadas a cada integrante y
 cuales ya han sido terminadas.
 
+[Trello](https://trello.com/b/dXWBUDHJ/ingenier%C3%ADa-en-l%C3%ADnea)
+
 Medios de comunicación:
 
 ## **WhatsApp y Teams**
