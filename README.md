@@ -44,7 +44,7 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 - [Competencias](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Competencias.md)
 
 ### Proyecto
-- (Análisis)[https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/An%C3%A1lisis.md]
+- [Análisis](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/An%C3%A1lisis.md)
 
 
 
