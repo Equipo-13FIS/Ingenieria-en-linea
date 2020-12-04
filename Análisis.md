@@ -7,7 +7,6 @@ Nos encontramos en la fase de diseño, para este utilizaremos historias de usuar
 
 - ¿Qué tan distante está su metodología del modelo ideal?
 
-- ¿Están usando historias de usuario?
 
 - ¿Cuáles diferencias notan entre historias de usuario y requerimientos?
 
