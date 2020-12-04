@@ -8,7 +8,7 @@ Nos encontramos en la fase de diseño, para este utilizaremos historias de usuar
 
 - Es visible pero no muy marcado ya que no se mantiene un contacto a diario entre el equipo si no que se hace cada dos días; el ritmo en ocasiones es pausado por circunstancias no contempladas como problemas de conexión.
 
-- ¿Cuáles diferencias notan entre historias de usuario y requerimientos?
+- Se usa historias de usuario en vez de requerimientos porque se está trabajando en el desarrollo de este proyecto con una metodología ágil basada en Scrum. Para este desarrollo de producto se considera importante contar con historias de usuario en vez de los requerimientos porque se quiere fomentar la colaboración con los usuarios que serían los interesados en ingresar a la carrera de ingeniería de software de la facultad de matemáticas de la UADY.
 
 - Los criterios de evaluación serán las condiciones ya establecidas en las historias de usuario ya creadas. 
 
