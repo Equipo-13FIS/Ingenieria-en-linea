@@ -10,6 +10,7 @@ Nos encontramos en la fase de diseño, para este utilizaremos historias de usuar
 
 - ¿Cuáles diferencias notan entre historias de usuario y requerimientos?
 
+- Los criterios de evaluación serán las condiciones ya establecidas en las historias de usuario ya creadas. 
 
 - En este proyecto utilizamos criterios de aceptación definidos, ya que la página será contenida con información que satisfacerá las necesidades que tienen los usuarios. Con base a las historias de usuario recolectaremos información de calidad.
 
