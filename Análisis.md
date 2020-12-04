@@ -10,8 +10,8 @@ Nos encontramos en la fase de diseño, para este utilizaremos historias de usuar
 
 - ¿Cuáles diferencias notan entre historias de usuario y requerimientos?
 
-- ¿Cuentan con criterios de aceptación definidos?
-En este proyecto utilizamos criterios de aceptación definidos, ya que la página será contenida con información que satisfacerá las necesidades que tienen los usuarios. Con base a las historias de usuario recolectaremos información de calidad.
-- ¿Cómo adaptaron el proceso ideal a su proceso?
-Para el producto al que queremos llegar, adaptamos lo que estamos haciendo a lo que queremos llegar, con base a los requerimientos con los que ya contamos nos hemos enfocado en estos, actualmente nos encontramos trabajando en las historias de usuario para poder cuymplir con el proceso ideal que estamos buscando.
+
+- En este proyecto utilizamos criterios de aceptación definidos, ya que la página será contenida con información que satisfacerá las necesidades que tienen los usuarios. Con base a las historias de usuario recolectaremos información de calidad.
+
+- Para el producto al que queremos llegar, adaptamos lo que estamos haciendo a lo que queremos llegar, con base a los requerimientos con los que ya contamos nos hemos enfocado en estos, actualmente nos encontramos trabajando en las historias de usuario para poder cuymplir con el proceso ideal que estamos buscando.
 - [Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/README.md)
