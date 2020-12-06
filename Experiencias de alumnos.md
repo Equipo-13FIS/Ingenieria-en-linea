@@ -30,4 +30,4 @@ Nunca dejar las tareas, proyectos o estudio para el final, tener planeado bien l
 
 
 Esfuerzate mucho en tus clases y prestale a tención a tus maestros, a la hora de la clase no utilices distractores que evitarán que saques el mayor provecho de lo que tus maestros pueden enseñarte, aunque trabajes desde tu casa los maestros te podrán ayudar en cualquier duda que tengas, así que si no entendiste algo o quieres aprender sobre un tema no dudes en preguntarles.
-## Entrevista a un exalumno resién egresado
+
