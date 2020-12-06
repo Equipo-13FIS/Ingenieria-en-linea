@@ -42,7 +42,7 @@ ofrece la institución.
 
 **Prioridad:** Media.
 
-**Como** usuario **quiero** una sección que hable de las experiencias de los alumnos de la carrera de ingeniería de software de la facultad de matemáticas **para**que 
+**Como** usuario **quiero** una sección que hable de las experiencias de los alumnos de la facultad de matemáticas **para**que 
 comprenda como se sienten en esta modalidad totalmente virtual.
 
 ## Condiciones:
