@@ -2,6 +2,7 @@
 ## Prioridad: Media.
 Como usuario quiero una sección que hable la importancia de estudiar sin importar las modalidades para que pueda aclarar que el estudio siempre es importante, y que no importe la manera en la que se presenta el conocimiento mientras se presente y se pueda aprovechar.
 Condiciones:
+
 •	El sistema debe permitir al usuario ingresar a la sección con la información que desea visualizar.
 
 La escuela puede ser muy difícil para muchas personas, pero el estudio es parte esencial de nuestra vida y nos puede ayudar en muchas formas en nuestro futuro. Muchas veces, es normal perder la motivación por seguir estudiando y querer renunciar a la escuela, y aún más en una época donde el futuro de las clases presenciales es realmente incierto y todos debemos cursar en línea, pero igual hay muchas razones por las que deberías seguir estudiando, sin importar la modalidad.
