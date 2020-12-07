@@ -31,3 +31,12 @@ Nunca dejar las tareas, proyectos o estudio para el final, tener planeado bien l
 
 Esfuerzate mucho en tus clases y prestale a tención a tus maestros, a la hora de la clase no utilices distractores que evitarán que saques el mayor provecho de lo que tus maestros pueden enseñarte, aunque trabajes desde tu casa los maestros te podrán ayudar en cualquier duda que tengas, así que si no entendiste algo o quieres aprender sobre un tema no dudes en preguntarles.
 
+## Entrevista a un exalumno recién egresado
+
+La manera en la que se trabaja en línea es mas accesible, ya que en los ultimos semestres la carga de horarios no son tan extensos, además es más accesible en caso de que el profesor por algún motivo no puede presentarse ya que solo se trabajan un par de materias.
+
+Recomiendo estar pendiente de todos tus documentos y prepararte muy bien para tu examen de egreso, aunque no sea presencial, la presión de este y su dificultad no cambia.
+Para trabajar las prácticas profesionales es muy importante que conozcas alguna alternativa ajena a la facultad ya que si siguen existiendo esta modalidad, tener una segunda opción es muy importante.,
+
+La manera en que los profesores trabajan el último semestre es la misma en cualquier universidad, y es muy importante que veas tu curriculum ya que empieza la vida laboral.
+A lo largo de la carrera te estuviste preparando para ser un ingeniero, y es muy importante que eso no cambie en tu último semestre
