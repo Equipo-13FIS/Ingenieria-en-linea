@@ -1,3 +1,14 @@
+## Historia de usuario 003, Dinámicas:
+
+**Prioridad:** Media.
+
+**Como** usuario **quiero** una sección que hable de las dinámicas que se están llevando a cabo en las clases virtuales de la facultad de matemáticas del periodo 
+escolar 2020-2021 **para** poder decidir si es una buena idea inscribirse en las carreras de la facultad de matemáticas o bien seguir en las mismas carreras que 
+ofrece la institución.
+
+# Condiciones:
+- El sistema permite al usuario ingresar a la sección con la información que desea visualizar.
+
 # Dinámicas de las clases virtuales de la ingeniería de software en la  facultad de matemáticas
 
 
