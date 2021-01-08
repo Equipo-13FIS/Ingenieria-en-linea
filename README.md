@@ -91,3 +91,7 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 [Bitacora 17](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bit%C3%A1coras/Bit%C3%A1cora%2017.md)
 
 [Bitacora 18](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bit%C3%A1coras/Bit%C3%A1cora%2018.md)
+
+[Bitacora 19](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bit%C3%A1coras/Bitacora19.md)
+
+[Bitacora 20](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Bit%C3%A1coras/Bitacora%2020.md)
