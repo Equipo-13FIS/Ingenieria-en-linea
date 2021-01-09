@@ -129,7 +129,7 @@ que se haga fácil conocerlos y tramitarlos.
 ## Condiciones:
 -El sistema permite al usuario ver las imágenes.
 
-## Historia de usuario 012, Banner:
+## Historia de usuario 013, Información de la facultad de matemáticas:
 **Prioridad:** media.
 
 **Como** usuario **quiero** que la página proporcione información adicional de la facultad de matemáticas **para** conocer mejor la institución.
