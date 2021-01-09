@@ -81,7 +81,7 @@ Para mas información, entrar a: https://devcode.la/cursos/html-css/
  
 ## **Sprints** 
 
-Durante el proceso de elaboración del software “ingeniería en línea”, se realizarán los Sprint que ayudarán a realizar las tareas en el tiempo establecido cada Sprint será en un lapso de una a dos semanas, en total serán tres Sprints. Las características que se tomaran en cuenta son: 
+Durante el proceso de elaboración del software “ingeniería en línea”, se realizarán los Sprint que ayudarán a realizar las tareas en el tiempo establecido cada Sprint será en un lapso de una a dos semanas, en total serán dos Sprints. Las características que se tomaran en cuenta son: 
 1.	La tarea asignada deberá ser entrega en la fecha establecida por el equipo.
 2.	Durante el Sprint no se podrán realizar cambios que puedan poner en riesgo el objetivo.
 3.	Se asignara un tiempo para corregir errores pero no se podrá alargar la fecha de entrega ya establecida. 
