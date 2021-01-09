@@ -121,4 +121,19 @@ que se haga fácil conocerlos y tramitarlos.
 ## Condiciones:
 - El sistema le permite al usuario ver el contenido.
 
+## Historia de usuario 012, Banner:
+**Prioridad:** media.
+
+**Como** usuario **quiero** que en la página se muestren imágenes relacionadas con las clases virtuales **para** sentir una sensación más educativa.
+
+## Condiciones:
+-El sistema permite al usuario ver las imágenes.
+
+## Historia de usuario 012, Banner:
+**Prioridad:** media.
+
+**Como** usuario **quiero** que la página proporcione información adicional de la facultad de matemáticas **para** conocer mejor la institución.
+
+## Condiciones:
+-El sistema concede una vista de la información adicional sobre la facultad de matemáticas.
 [Página principal](https://github.com/Equipo-13FIS/Ingenieria-en-linea)
