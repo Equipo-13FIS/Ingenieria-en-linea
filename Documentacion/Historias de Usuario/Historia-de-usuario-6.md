@@ -18,7 +18,8 @@ Al igual que mucha de la información que necesitaras la tendrás que encontrar 
 impacto en el medio ambiente, debido a que el consumo de hojas, libretas y basura no es igual que en un curso presencial.
 
 **Ahorro económico:** Por obviedad los cursos en línea son más económicos, puesto que cosas como el transporte, tareas impresas y comidas, ya no son necesarias.
-Comodidad: Debido a la modalidad, podemos tener la factibilidad de tomar estos cursos desde la comodidad de nuestras casas.
+
+**Comodidad:** Debido a la modalidad, podemos tener la factibilidad de tomar estos cursos desde la comodidad de nuestras casas.
 
 **Ahorro de tiempo:** Esta es una de las ventajas más importantes, ya que esta es la que nos permite realizar otras actividades que a causa del 
 transporte no se podían realizar.
