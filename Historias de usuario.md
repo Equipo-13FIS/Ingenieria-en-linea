@@ -90,17 +90,13 @@ que se haga fácil conocerlos y tramitarlos.
 - Cada sección corresponderá a un documento distinto.
 - La sección explicará qué es, para qué sirve y cómo tramitar el documento.
 
-## Historia de usuario 009, Actualizaciones:
+## Historia de usuario 009, Banner:
+**Prioridad:** media.
 
-**Prioridad:** Media.
-
-**Como** usuario **quiero** un panel que me notifique actualizaciones **para** que este al corriente de la nueva información que se agrega.
+**Como** usuario **quiero** que en la página se muestren imágenes relacionadas con las clases virtuales **para** sentir una sensación más educativa.
 
 ## Condiciones:
-- Que muestre los cambios efectuados más recientes.
-- Que disponga de la fecha en la que se cambió.
-- Que muestre la fecha en la que se pondrán cambios.
-- Los cambios se harán cada quince días.
+-El sistema permite al usuario ver las imágenes.
 
 ## Historia de usuario 010, Responsive:
 
@@ -121,15 +117,8 @@ que se haga fácil conocerlos y tramitarlos.
 ## Condiciones:
 - El sistema le permite al usuario ver el contenido.
 
-## Historia de usuario 012, Banner:
-**Prioridad:** media.
 
-**Como** usuario **quiero** que en la página se muestren imágenes relacionadas con las clases virtuales **para** sentir una sensación más educativa.
-
-## Condiciones:
--El sistema permite al usuario ver las imágenes.
-
-## Historia de usuario 013, Información de la facultad de matemáticas:
+## Historia de usuario 012, Información de la facultad de matemáticas:
 **Prioridad:** media.
 
 **Como** usuario **quiero** que la página proporcione información adicional de la facultad de matemáticas **para** conocer mejor la institución.
