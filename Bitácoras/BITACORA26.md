@@ -9,8 +9,12 @@ En equipo platicamos sobre que falta hacer y dividimos las actividades.
 
 Partipantes:
 
-Karyme Bautista 
-Emanuel Chavez
-Patricio Peña
-Esteban Pacheco
-Lourdes Batún
+-Karyme Bautista
+
+-Emanuel Chavez
+
+-Patricio Peña
+
+-Esteban Pacheco
+
+-Lourdes Batún
