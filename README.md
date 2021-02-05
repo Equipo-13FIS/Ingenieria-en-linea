@@ -53,7 +53,7 @@ La "Ingeniería en Línea" está dirigido a los jóvenes aspirantes que quieran 
 
 -[Video](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/Presentacion(Video%20YT).md)
 
--[Póster]
+-[Póster](https://github.com/Equipo-13FIS/Ingenieria-en-linea/blob/main/IngenieriaEnLinea_Poster.pdf)
 
 
 
